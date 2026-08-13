@@ -1,3 +1,12 @@
+---
+title: "Geminiで爆速授業作り"
+tags: [研修, ワークショップ]
+type: area
+created: 2026-07-10
+updated: 2026-07-11
+status: complete
+---
+
 # Geminiで爆速授業作り
 ## 7月11日 GiGAGig東北
 
